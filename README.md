@@ -1,5 +1,8 @@
 # KonyAPMSampleApp
 Application to showcase Kony APM features.
+  - Dynamically set autocapture
+  - Dynamically set flowtag and User
+  - Testing the APM Autocapture Events
 
 # To run this app
 - Set up an application on your Mobile Fabric Cloud Account and publish it. (It may be a dummy application also)
